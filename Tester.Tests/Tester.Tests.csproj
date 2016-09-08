@@ -8,7 +8,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7abf6da1-ca6a-42aa-a269-5ef2120e1721}</ProjectGuid>
+    <ProjectGuid>{1cbdc8bb-8d7d-44ba-9816-a1de40d56b38}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Tester.Tests</RootNamespace>
@@ -84,7 +84,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tester.PCL\Tester.PCL.csproj">
-      <Project>{eec31abb-a8f3-47ee-96a6-e50b331b4501}</Project>
+      <Project>{68785ee6-60b6-467f-9fb1-323b65cf789a}</Project>
       <Name>Tester.PCL</Name>
     </ProjectReference>
   </ItemGroup>
