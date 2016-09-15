@@ -2,13 +2,13 @@
 <!--
  - Tester.Tests
  -
- - This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 09/08/2016
+ - This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 09/15/2016
 -->
 <Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5288552a-b890-4900-bebc-92ee08e0cd47}</ProjectGuid>
+    <ProjectGuid>{51174c4b-4954-4fee-8a6d-b34abf4fed30}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Tester.Tests</RootNamespace>
@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tester.PCL\Tester.PCL.csproj">
-      <Project>{818ada81-f7c1-419f-ba69-a43ec5f7a224}</Project>
+      <Project>{e6bd8250-af2b-424f-bf4d-2518af5a5c0e}</Project>
       <Name>Tester.PCL</Name>
     </ProjectReference>
   </ItemGroup>
